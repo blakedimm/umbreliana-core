@@ -83,5 +83,5 @@ python gram.py
 ---
 
 ## 👨‍💻 Author
-* **Developer:** [Blake](https://github.com/blakedimm)
+* **Developer:** blakedimm
 * **Specialization:** Backend Architecture, High-Load Telegram Bots, System Software
